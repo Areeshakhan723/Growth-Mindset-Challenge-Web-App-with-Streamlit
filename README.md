@@ -5,9 +5,13 @@ This project was part of the Growth Mindset Challenge and it has been a great le
 
 ## 🔥 Key Features:
  ✅ Upload & process multiple CSV/Excel files
+ 
  ✅ Clean data (remove duplicates, fill missing values)
+ 
  ✅ Select specific columns for analysis
+ 
  ✅ Interactive data visualization 📊
+ 
  ✅ Export files in multiple formats
 
 🛠 Tech Stack:
