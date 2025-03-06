@@ -22,3 +22,6 @@ This project reinforced the power of a growth mindset – solving UI issues, enh
 
 ## 📌 Live Demo
 https://areeshakhan723-growth-mindset-project-01-file-convertor-wblovq.streamlit.app/
+
+![image](https://github.com/user-attachments/assets/a6d1938d-db14-4ba6-8944-0b99e58aff9b)
+
