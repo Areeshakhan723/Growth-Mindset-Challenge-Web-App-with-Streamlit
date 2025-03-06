@@ -14,7 +14,7 @@ This project was part of the Growth Mindset Challenge and it has been a great le
  
  ✅ Export files in multiple formats
 
-🛠 Tech Stack:
+## 🛠 Tech Stack:
 
 🐍 Python | Streamlit | Pandas | OpenPyxl
 
